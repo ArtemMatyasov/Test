@@ -5,7 +5,7 @@ public class ArrayInopolis5 {
     //1.нахождения минимального значения среди элементов любой строки
     // двумерного массива;
     // 2.нахождения максимального значения среди элементов любого
-    // столбца двумерног омассива;
+    // столбца двумерног омассива;GITGITGITGITGITGITGITGITGITGITGITGITGITGITGIT
     public static void main(String[] args) {
         Random r = new Random();
         int[][] array2d = new int[r.nextInt(4, 6)][r.nextInt(3, 6)];
