@@ -16,6 +16,7 @@ public class ArrayInopolis5 {
                 System.out.print(array2d[i][j] + " ");
             }
             System.out.println();
+            System.out.println();
         }
 int w;
         int sumRow = 0;
