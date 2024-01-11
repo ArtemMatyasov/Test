@@ -17,7 +17,7 @@ public class ArrayInopolis5 {
             }
             System.out.println();
         }
-
+int w;
         int sumRow = 0;
         for (int i = 0; i < array2d[3].length; i++) {
             if (sumRow > array2d[3][i])
