@@ -17,6 +17,7 @@ public class ArrayInopolis5 {
             }
             System.out.println();
             System.out.println();
+            System.out.println();
         }
 int w;
         int sumRow = 0;
